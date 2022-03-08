@@ -28,5 +28,4 @@
 
 ## Report
 
-* OpenFABMAP-2020100363.pptx - the power point version of the research including explanative audio
 * OpenFABMAP-2020100363.pdf - the pdf version of the research including all the details
